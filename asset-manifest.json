@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.138cc871.css",
-    "main.js": "/static/js/main.64e61323.js",
+    "main.js": "/static/js/main.0ebf492b.js",
     "static/media/오토나시-히비키_02.jpg": "/static/media/오토나시-히비키_02.5bba5051cd04b6111d33.jpg",
     "static/media/지나가던댕댕이_포레아.jpg": "/static/media/지나가던댕댕이_포레아.965bf520bc0909c245e4.jpg",
     "static/media/그을_리뉴얼_목업.jpg": "/static/media/그을_리뉴얼_목업.9f0368e500aa5a48ca46.jpg",
@@ -140,10 +140,10 @@
     "static/media/email.svg": "/static/media/email.ec7c53a5500fdd563a1296251dcb3755.svg",
     "index.html": "/index.html",
     "main.138cc871.css.map": "/static/css/main.138cc871.css.map",
-    "main.64e61323.js.map": "/static/js/main.64e61323.js.map"
+    "main.0ebf492b.js.map": "/static/js/main.0ebf492b.js.map"
   },
   "entrypoints": [
     "static/css/main.138cc871.css",
-    "static/js/main.64e61323.js"
+    "static/js/main.0ebf492b.js"
   ]
 }
