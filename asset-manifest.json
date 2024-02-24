@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.15effd62.css",
-    "main.js": "/static/js/main.b34ad1ba.js",
+    "main.js": "/static/js/main.3ea96f6c.js",
     "static/media/오토나시-히비키_02.jpg": "/static/media/오토나시-히비키_02.5bba5051cd04b6111d33.jpg",
     "static/media/지나가던댕댕이_포레아.jpg": "/static/media/지나가던댕댕이_포레아.965bf520bc0909c245e4.jpg",
     "static/media/그을_리뉴얼_목업.jpg": "/static/media/그을_리뉴얼_목업.9f0368e500aa5a48ca46.jpg",
@@ -93,6 +93,7 @@
     "static/media/시스티나_목업2.png": "/static/media/시스티나_목업2.660b0d331441eb7d43b2.png",
     "static/media/케일리안_도안.png": "/static/media/케일리안_도안.3b31d9cd37823e290eae.png",
     "static/media/마타리_목업.png": "/static/media/마타리_목업.fee01afbf1c8cb447924.png",
+    "static/media/KakaoTalk_20240222_151047728.jpg": "/static/media/KakaoTalk_20240222_151047728.a6877e7bf693cc381979.jpg",
     "static/media/베르티엔-엠블럼_최종.jpg": "/static/media/베르티엔-엠블럼_최종.61dc4f7fb920f7a2379d.jpg",
     "static/media/수민씨-시안_목업.png": "/static/media/수민씨-시안_목업.3e5a5517cfe3af7510d1.png",
     "static/media/아스트라너트_세실리티_목업.jpg": "/static/media/아스트라너트_세실리티_목업.692b0d335a461092e6f6.jpg",
@@ -119,6 +120,7 @@
     "static/media/야성이.jpg": "/static/media/야성이.595e2a263636d8ecb0aa.jpg",
     "static/media/메르_홍보-포스터_02.jpg": "/static/media/메르_홍보-포스터_02.6d67cfdc1c5a7fa3db12.jpg",
     "static/media/금야성_일일일정표_최종안.jpg": "/static/media/금야성_일일일정표_최종안.d32ed6d68250f9452b90.jpg",
+    "static/media/image.png": "/static/media/image.ae60d2c41710f5f26a65.png",
     "static/media/케일리안-엠블럼.jpg": "/static/media/케일리안-엠블럼.8951425b6ba429f9307c.jpg",
     "static/media/코메_목업.png": "/static/media/코메_목업.be9a79bad03500b28197.png",
     "static/media/로고.png": "/static/media/로고.d3457c84ea45244d3af1.png",
@@ -140,10 +142,10 @@
     "static/media/email.svg": "/static/media/email.ec7c53a5500fdd563a1296251dcb3755.svg",
     "index.html": "/index.html",
     "main.15effd62.css.map": "/static/css/main.15effd62.css.map",
-    "main.b34ad1ba.js.map": "/static/js/main.b34ad1ba.js.map"
+    "main.3ea96f6c.js.map": "/static/js/main.3ea96f6c.js.map"
   },
   "entrypoints": [
     "static/css/main.15effd62.css",
-    "static/js/main.b34ad1ba.js"
+    "static/js/main.3ea96f6c.js"
   ]
 }
