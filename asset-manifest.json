@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.15effd62.css",
-    "main.js": "/static/js/main.4ede5ca0.js",
+    "main.js": "/static/js/main.5aef5f96.js",
+    "static/media/png": "/static/media/a607d49dd8e87fab.0ed9b60b1b2327d6e0d6.png",
     "static/media/오토나시-히비키_02.jpg": "/static/media/오토나시-히비키_02.5bba5051cd04b6111d33.jpg",
     "static/media/지나가던댕댕이_포레아.jpg": "/static/media/지나가던댕댕이_포레아.965bf520bc0909c245e4.jpg",
     "static/media/그을_리뉴얼_목업.jpg": "/static/media/그을_리뉴얼_목업.9f0368e500aa5a48ca46.jpg",
@@ -93,6 +94,7 @@
     "static/media/시스티나_목업2.png": "/static/media/시스티나_목업2.660b0d331441eb7d43b2.png",
     "static/media/케일리안_도안.png": "/static/media/케일리안_도안.3b31d9cd37823e290eae.png",
     "static/media/마타리_목업.png": "/static/media/마타리_목업.fee01afbf1c8cb447924.png",
+    "static/media/01.png": "/static/media/01.3d8e7dd76ffeed7266bf.png",
     "static/media/KakaoTalk_20240222_151047728.jpg": "/static/media/KakaoTalk_20240222_151047728.a6877e7bf693cc381979.jpg",
     "static/media/베르티엔-엠블럼_최종.jpg": "/static/media/베르티엔-엠블럼_최종.61dc4f7fb920f7a2379d.jpg",
     "static/media/수민씨-시안_목업.png": "/static/media/수민씨-시안_목업.3e5a5517cfe3af7510d1.png",
@@ -101,6 +103,7 @@
     "static/media/월야화랑_도안_최종_목업.jpg": "/static/media/월야화랑_도안_최종_목업.eaa5cd845f7d789fafb0.jpg",
     "static/media/락우_목업.jpg": "/static/media/락우_목업.19980b12a1de58b08529.jpg",
     "static/media/라모_목업.jpg": "/static/media/라모_목업.e494824870fcbd834d66.jpg",
+    "static/media/jpg": "/static/media/72ecf2e17aa272b1.5a748d719590c6f22961.jpg",
     "static/media/금야성드알 공포라디오 포스터.png": "/static/media/금야성드알 공포라디오 포스터.a6ce79216e684a586749.png",
     "static/media/캣님_목업.jpg": "/static/media/캣님_목업.18f78838cc66371f6367.jpg",
     "static/media/베르티엔_목업.jpg": "/static/media/베르티엔_목업.d2fddd87d94e8bcb2f8f.jpg",
@@ -125,7 +128,6 @@
     "static/media/코메_목업.png": "/static/media/코메_목업.be9a79bad03500b28197.png",
     "static/media/로고.png": "/static/media/로고.d3457c84ea45244d3af1.png",
     "static/media/요자님.png": "/static/media/요자님.5353d6d1a06df8d92069.png",
-    "static/media/jpg": "/static/media/72ecf2e17aa272b1.5a748d719590c6f22961.jpg",
     "static/media/메르_홍보-포스터_03.jpg": "/static/media/메르_홍보-포스터_03.9a71c3ca99e276ae7b02.jpg",
     "static/media/주루마블-초안.png": "/static/media/주루마블-초안.40f637c602afb43180e7.png",
     "static/media/무제-1.png": "/static/media/무제-1.df05cfe46faf7338564d.png",
@@ -143,10 +145,10 @@
     "static/media/email.svg": "/static/media/email.ec7c53a5500fdd563a1296251dcb3755.svg",
     "index.html": "/index.html",
     "main.15effd62.css.map": "/static/css/main.15effd62.css.map",
-    "main.4ede5ca0.js.map": "/static/js/main.4ede5ca0.js.map"
+    "main.5aef5f96.js.map": "/static/js/main.5aef5f96.js.map"
   },
   "entrypoints": [
     "static/css/main.15effd62.css",
-    "static/js/main.4ede5ca0.js"
+    "static/js/main.5aef5f96.js"
   ]
 }
